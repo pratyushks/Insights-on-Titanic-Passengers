@@ -37,7 +37,7 @@ The dataset used for this analysis can be found in the following path: `D:\Old\v
 
 10. **Number of Survivors by Embarkation Port**
 
-11. **Number of Survivors by Age Group and Survival Status**
+11. **Number of Survivors by Age Group**
 
 ## Dependencies
 
