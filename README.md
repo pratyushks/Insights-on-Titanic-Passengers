@@ -3,7 +3,7 @@ This repository contains Python code and data for conducting an exploratory data
 
 ## Dataset
 
-The dataset used for this analysis can be found in the following path: `D:\Old\vscodess\Python\EDA\train.csv`.
+The dataset used for this analysis is available in the following URL: [Dataset CSV](https://www.kaggle.com/datasets/mmek31/titantic).
 
 ## Data Preprocessing
 
